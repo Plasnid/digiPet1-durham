@@ -1,0 +1,24 @@
+{
+  "name": "digiPet1-durham",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/digiPet1-durham.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/digiPet1-durham/issues"
+  },
+  "homepage": "https://github.com/Plasnid/digiPet1-durham#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
